@@ -17,7 +17,7 @@
   "author": "Sparky",
   "license": "MIT",
   "dependencies": {
-    "@adiwajshing/baileys": "^4.4.0",
+    "@adiwajshing/baileys": "npm@EX-SPARKY/baileys2",
     "@adiwajshing/keyed-db": "^0.2.4",
     "@bochilteam/scraper": "^2.0.0",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",

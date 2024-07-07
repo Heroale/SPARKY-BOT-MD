@@ -1,4 +1,4 @@
-
+# NO LONGER MAINTAINED 🥹👍🏻
 
 <h1 align="center">SPARKY-BOT-MD<br></h1>
 <p align="center">
